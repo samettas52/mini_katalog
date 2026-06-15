@@ -30,5 +30,5 @@ Projeyi kendi bilgisayarınızda derleyip çalıştırmak için aşağıdaki ad�
 
     ```bash
     flutter run
-flutter run
+
 
