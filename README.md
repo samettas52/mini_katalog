@@ -16,7 +16,7 @@ Projeyi kendi bilgisayarınızda derleyip çalıştırmak için aşağıdaki ad�
 
 1. Projeyi bilgisayarınıza klonlayın:
    ```bash
-   git clone <repository-urliniz-buraya-gelecek>
+   git clone <https://github.com/samettas52/mini_katalog>
 2. Proje dizinine girin:
 
    ```bash
